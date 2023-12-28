@@ -1,0 +1,9 @@
+#container {
+    padding: 10px;
+    background: green;
+}
+
+#container div {
+    background: red;
+    margin:5px;
+}
